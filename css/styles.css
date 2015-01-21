@@ -1,0 +1,10 @@
+
+i[data-emoji] {
+    cursor: pointer;
+    display: inline-block;
+}
+
+i[data-emoji]:hover {
+    background-color: #94A2B5;
+    border-radius: 5px;
+}
